@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Video Player</title>
+    <style>
+        body {
+            background-color: #333;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .video-container {
+            position: relative;
+            width: 80%;
+            max-width: 800px;
+            background: #000;
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        video {
+            width: 100%;
+            display: block;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+        .control-btn {
+            background: #007bff;
+            border: none;
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .control-btn:hover {
+            background: #0056b3;
+        }
+
+        .control-slider {
+            flex: 1;
+            margin: 0 10px;
+        }
+
+        #progress {
+            margin: 0 10px;
+        }
+
+        #volume {
+            width: 80px;
+        }
+
+        .video-list {
+            width: 80%;
+            max-width: 800px;
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .video-item {
+            margin-bottom: 10px;
+        }
+
+        .video-item a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        .video-item a:hover {
+            text-decoration: underline;
+        }
+
+        .video-name {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div id="playerContainer" class="video-container">
+        <video id="video" src="" controls></video>
+        <div class="controls">
+            <button id="playPause" class="control-btn">Play</button>
+            <input id="progress" type="range" min="0" max="100" value="0" class="control-slider">
+            <button id="muteUnmute" class="control-btn">Mute</button>
+            <input id="volume" type="range" min="0" max="100" value="100" class="control-slider">
+            <button id="fullscreen" class="control-btn">Fullscreen</button>
+        </div>
+    </div>
+    <ul id="videoList" class="video-list"></ul>
+
+    <script src="player.js"></script>
+</body>
+</html>
