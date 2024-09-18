@@ -1,17 +1,66 @@
-{
-    "videos": [
-        {
-            "title": "Lecture-16 || ( चंद्रमा ) Moon Part-II",
-            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L16/L16.m3u8"
-        },
-        {
-            "title": "Lecture-15 || ( चंद्रमा ) Moon Part-I",
-            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L15/L15.m3u8"
-        },
-        {
-            "title": "Lecture-14 || ( पृथ्वी ) Earth Part-II",
-            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L14/L14.m3u8"
-        },
-        // Add more videos as needed
-    ]
-}
+[
+    {
+        "title": "(Astronomy (World Geography)) Lecture-16 || ( चंद्रमा ) Moon Part-II",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L16/L16.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-15 || ( चंद्रमा ) Moon Part-I",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L15/L15.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-14 || ( पृथ्वी ) Earth Part-II",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L14/L14.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-13 || ( पृथ्वी ) Earth Part-I",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L13/L13.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-12 || ( सौर मंडल ) Solar System Part -VI",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L12/L12.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-11 || ( सौर मंडल ) Solar System Part -V",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L11/L11.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-10 || ( सौर मंडल ) Solar System Part -IV",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L10/L10.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-09 || ( सौर मंडल ) Solar System Part -III",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation/geography-09.mp4"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-08 || ( सौर मंडल ) Solar System Part -II",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L8/L8.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-07 || ( सौर मंडल ) Solar System Part -I",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L7/L7.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-06 || सूर्य (Sun) Part-II",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L6/L6.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-05 || सूर्य (Sun) Part-I",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L5/L5.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-04 || Double Star Theory ( सौर्यमण्डल की उत्पत्ति का सिद्धांत)",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L4/L4.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-03 || Milky Way (आकाशगंगा) Part-II",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L3/L3.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-02 || Milky Way (आकाशगंगा) Part-I",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L2/L2.m3u8"
+    },
+    {
+        "title": "(Astronomy (World Geography)) Lecture-01 || Astronomy Introduction",
+        "videoUrl": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L1/L1.m3u8"
+    }
+]
