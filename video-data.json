@@ -1,0 +1,17 @@
+{
+    "videos": [
+        {
+            "title": "Lecture-16 || ( चंद्रमा ) Moon Part-II",
+            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L16/L16.m3u8"
+        },
+        {
+            "title": "Lecture-15 || ( चंद्रमा ) Moon Part-I",
+            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L15/L15.m3u8"
+        },
+        {
+            "title": "Lecture-14 || ( पृथ्वी ) Earth Part-II",
+            "url": "https://kgs-v2.akamaized.net/kgs-test/geography-foundation-m3u8/L14/L14.m3u8"
+        },
+        // Add more videos as needed
+    ]
+}
